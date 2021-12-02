@@ -1,8 +1,16 @@
-@font-face {
+/* @font-face {
     font-family: 'Aktiv Grotesk';
-    src: url(./AktivGrotesk.ttf);
+    src: url(https://raw.githubusercontent.com/Adetutu777/font-two/master/AktivGrotesk.ttf);
       }
 @font-face {
     font-family: 'Tiempos Headline';
-    src: url(./TiemposHeadline-Bold.ttf);
+    src: url(https://raw.githubusercontent.com/Adetutu777/font-two/master/TiemposHeadline-Bold.ttf);
+      } */
+@font-face {
+    font-family: 'Tiempos Headline';
+    src: url(https://raw.githubusercontent.com/Adetutu777/font-two/master/TiemposHeadline-Bold.woff) format('woff');
+      }
+@font-face {
+    font-family: 'Aktiv Grotesk';
+    src: url(https://raw.githubusercontent.com/Adetutu777/font-two/master/AktivGrotesk.woff), format('tff');
       }
